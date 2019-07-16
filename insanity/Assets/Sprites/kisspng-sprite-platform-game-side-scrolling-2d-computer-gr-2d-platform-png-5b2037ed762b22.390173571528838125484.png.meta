@@ -1,0 +1,477 @@
+fileFormatVersion: 2
+guid: 07e06d24e8976654cb5ac8f215804b8b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: kisspng-sprite-platform-game-side-scrolling-2d-computer-gr-2d-platform-png-5b2037ed762b22.390173571528838125484_0
+    21300002: kisspng-sprite-platform-game-side-scrolling-2d-computer-gr-2d-platform-png-5b2037ed762b22.390173571528838125484_1
+    21300004: kisspng-sprite-platform-game-side-scrolling-2d-computer-gr-2d-platform-png-5b2037ed762b22.390173571528838125484_2
+    21300006: kisspng-sprite-platform-game-side-scrolling-2d-computer-gr-2d-platform-png-5b2037ed762b22.390173571528838125484_3
+    21300008: kisspng-sprite-platform-game-side-scrolling-2d-computer-gr-2d-platform-png-5b2037ed762b22.390173571528838125484_4
+    21300010: kisspng-sprite-platform-game-side-scrolling-2d-computer-gr-2d-platform-png-5b2037ed762b22.390173571528838125484_5
+    21300012: kisspng-sprite-platform-game-side-scrolling-2d-computer-gr-2d-platform-png-5b2037ed762b22.390173571528838125484_6
+    21300014: kisspng-sprite-platform-game-side-scrolling-2d-computer-gr-2d-platform-png-5b2037ed762b22.390173571528838125484_7
+    21300016: kisspng-sprite-platform-game-side-scrolling-2d-computer-gr-2d-platform-png-5b2037ed762b22.390173571528838125484_8
+    21300018: kisspng-sprite-platform-game-side-scrolling-2d-computer-gr-2d-platform-png-5b2037ed762b22.390173571528838125484_9
+    21300020: kisspng-sprite-platform-game-side-scrolling-2d-computer-gr-2d-platform-png-5b2037ed762b22.390173571528838125484_10
+    21300022: kisspng-sprite-platform-game-side-scrolling-2d-computer-gr-2d-platform-png-5b2037ed762b22.390173571528838125484_11
+    21300024: kisspng-sprite-platform-game-side-scrolling-2d-computer-gr-2d-platform-png-5b2037ed762b22.390173571528838125484_12
+    21300026: kisspng-sprite-platform-game-side-scrolling-2d-computer-gr-2d-platform-png-5b2037ed762b22.390173571528838125484_13
+    21300028: kisspng-sprite-platform-game-side-scrolling-2d-computer-gr-2d-platform-png-5b2037ed762b22.390173571528838125484_14
+    21300030: kisspng-sprite-platform-game-side-scrolling-2d-computer-gr-2d-platform-png-5b2037ed762b22.390173571528838125484_15
+    21300032: kisspng-sprite-platform-game-side-scrolling-2d-computer-gr-2d-platform-png-5b2037ed762b22.390173571528838125484_16
+    21300034: kisspng-sprite-platform-game-side-scrolling-2d-computer-gr-2d-platform-png-5b2037ed762b22.390173571528838125484_17
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-sprite-platform-game-side-scrolling-2d-computer-gr-2d-platform-png-5b2037ed762b22.390173571528838125484_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 864
+        width: 221
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d2ae18b46c80e46877f27a1b30c85c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-platform-game-side-scrolling-2d-computer-gr-2d-platform-png-5b2037ed762b22.390173571528838125484_1
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 862
+        width: 260
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8891b6ad9625fea4dbc2dd01ce32755b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-platform-game-side-scrolling-2d-computer-gr-2d-platform-png-5b2037ed762b22.390173571528838125484_2
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1001
+        width: 268
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce51cf336fad7a43a532b3d79c860ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-platform-game-side-scrolling-2d-computer-gr-2d-platform-png-5b2037ed762b22.390173571528838125484_3
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 910
+        width: 134
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a82624b2acfcf42bc5e89d5f6abf1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-platform-game-side-scrolling-2d-computer-gr-2d-platform-png-5b2037ed762b22.390173571528838125484_4
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 884
+        width: 314
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ead928bd9bd64542bb15326a114fdbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-platform-game-side-scrolling-2d-computer-gr-2d-platform-png-5b2037ed762b22.390173571528838125484_5
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 836
+        width: 390
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f1c118a8b6b3142b0e2d19165c26ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-platform-game-side-scrolling-2d-computer-gr-2d-platform-png-5b2037ed762b22.390173571528838125484_6
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 801
+        width: 499
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a18ee841e648274d99cff26f51d4557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-platform-game-side-scrolling-2d-computer-gr-2d-platform-png-5b2037ed762b22.390173571528838125484_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 789
+        width: 336
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441c24278aea3304891b0696d762f0c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-platform-game-side-scrolling-2d-computer-gr-2d-platform-png-5b2037ed762b22.390173571528838125484_8
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 782
+        width: 127
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a46d7e2103d1d4382f68bcb4059bef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-platform-game-side-scrolling-2d-computer-gr-2d-platform-png-5b2037ed762b22.390173571528838125484_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 184
+        width: 567
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a340ee2a44363464499306d832e6936f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-platform-game-side-scrolling-2d-computer-gr-2d-platform-png-5b2037ed762b22.390173571528838125484_10
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 411
+        width: 119
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889ca228b393f40418c2c2c6a904378a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-platform-game-side-scrolling-2d-computer-gr-2d-platform-png-5b2037ed762b22.390173571528838125484_11
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 463
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277b1de1ce28c254798c07a881b9c73b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-platform-game-side-scrolling-2d-computer-gr-2d-platform-png-5b2037ed762b22.390173571528838125484_12
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 184
+        width: 383
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b745e07abe4324e90913183957f12c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-platform-game-side-scrolling-2d-computer-gr-2d-platform-png-5b2037ed762b22.390173571528838125484_13
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 192
+        width: 150
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4419e14c73dd5aa4da22930cfc03d87e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-platform-game-side-scrolling-2d-computer-gr-2d-platform-png-5b2037ed762b22.390173571528838125484_14
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 419
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2374f3178f74ed442af79e21f3f68ef2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-platform-game-side-scrolling-2d-computer-gr-2d-platform-png-5b2037ed762b22.390173571528838125484_15
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 318
+        width: 470
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e839387f41ff1448f076a800acc0ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-platform-game-side-scrolling-2d-computer-gr-2d-platform-png-5b2037ed762b22.390173571528838125484_16
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 203
+        width: 274
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e04c51ea2ed6c4db241bd580cfd105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-platform-game-side-scrolling-2d-computer-gr-2d-platform-png-5b2037ed762b22.390173571528838125484_17
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 10
+        width: 1699
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5130e0aec00ae04d899628075530ec9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cb1e3af508f64f64dbdb9cd6b8e4d36b
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
